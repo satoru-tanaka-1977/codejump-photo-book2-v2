@@ -24,7 +24,7 @@ Flexboxを使用したレイアウト構築と、レスポンシブ対応の練�
 
 ## 公開URL
 GitHub Pagesで公開しています。  
-（ここにPagesのURLを記載）
+https://satoru-tanaka-1977.github.io/codejump-photo-book2-v2/
 
 ---
 
